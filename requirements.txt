@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+matplotlib
+
+# Optional but useful
+seaborn
+scipy
+yfinance
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
