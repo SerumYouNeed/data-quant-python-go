@@ -35,62 +35,26 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 
 data-quant-python-go/  
 |  
-├──notebooks/  
+├──notebooks/                      # 📓 Jupyter Notebooks – concepts & exercises    
 |   └── numpy_basic.ipynb  
 |  
 ├── logs/  
-│   └── pipeline.log               # <- tworzy się automatycznie  
+│   └── pipeline.log  
+|  
+├── projects/                      # 🚧 Larger mini-projects & experiments      
 |  
 ├── src/  
-│   ├── __init__.py                # <- pusty, by src był pakietem  
-│   ├── logger.py                  # <- pomocniczy logger  
+│   ├── __init__.py             
+│   ├── logger.py                
 │   └── data_engineering/  
-│       ├── __init__.py            # <- pusty  
-│       └── example_pipeline.py    # <- demonstracja logowania  
+│       ├── __init__.py            
+│       └── example_pipeline.py    
 |  
-├── README.md                      # <- z instrukcją PYTHONPATH  
-├── requirements.txt  
+├── resources/                     # 🗂️ Datasets, CSV files, charts    
+├── README.md                   
+├── requirements.txt               # 📦 Dependencies    
 
-
-
-data-quant-python-go/  
-│  
-├── notebooks/               # 📓 Jupyter Notebooks – concepts & exercises  
-│     ├── numpy_basics.ipynb  
 │     ├── pandas_intro.ipynb  
-│     ├── ...  
-│     ├── ...  
-│     └── ...  
-│  
-├── projects/                # 🚧 Larger mini-projects & experiments  
-│     ├── .../  
-│     ├── .../  
-│     ├── .../  
-│     └── ...  
-│  
-├── resources/               # 🗂️ Datasets, CSV files, charts  
-│     ├── ...  
-│     ├── ...  
-│     └── ...  
-│  
-├── scripts/                 # 🐍 Modules and scripts  
-│     ├── ..  
-│     ├── ...  
-│     └── ...  
-│  
-├── go_src/                  # 🦫 Golang code  
-│     ├── ...  
-│     ├── ...  
-│     └── ...  
-│  
-├── react_dashboard/         # 🌐 (optional) dashboard build in React  
-│     ├── src/  
-│     ├── public/  
-│     └── ...  
-│  
-├── README.md  
-├── .gitignore  
-└── requirements.txt         # 📦 Dependencies  
 
 ---
 
