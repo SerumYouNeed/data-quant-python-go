@@ -34,15 +34,23 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 ## 📁 Folder Structure
 
 data-quant-python-go/
-├── notebooks/
-├── src/
-│   ├── data_engineering/
-│   ├── quant/
-│   └── go_integration/
+|
+├──notebooks/
+|   └── numpy_basic.ipynb
+|
 ├── logs/
+│   └── pipeline.log               # <- tworzy się automatycznie
+|
+├── src/
+│   ├── __init__.py                # <- pusty, by src był pakietem
+│   ├── logger.py                  # <- pomocniczy logger
+│   └── data_engineering/
+│       ├── __init__.py            # <- pusty
+│       └── example_pipeline.py    # <- demonstracja logowania
+|
+├── README.md                      # <- z instrukcją PYTHONPATH
 ├── requirements.txt
-├── README.md
-└── .gitignore
+
 
 
 data-quant-python-go/
