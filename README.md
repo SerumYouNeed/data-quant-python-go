@@ -34,6 +34,18 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 ## 📁 Folder Structure
 
 data-quant-python-go/
+├── notebooks/
+├── src/
+│   ├── data_engineering/
+│   ├── quant/
+│   └── go_integration/
+├── logs/
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
+data-quant-python-go/
 │
 ├── notebooks/               # 📓 Jupyter Notebooks – concepts & exercises
 │   ├── numpy_basics.ipynb
@@ -76,7 +88,7 @@ data-quant-python-go/
 
 ## 🚀 How to Run the Notebooks
 
-```bash
+```Bash
 # 1. Clone the repository
 git clone https://github.com/your-username/data-quant-python-go.git
 cd data-quant-python-go
@@ -94,6 +106,18 @@ pip install numpy pandas matplotlib jupyter
 jupyter notebook
 ```
 Then open the notebooks/ folder in your browser and start exploring!
+
+To run example scripts or pipelines that use the logger:
+
+```Bash
+# From the root directory of the repository
+PYTHONPATH=. python src/data_engineering/example_pipeline.py
+
+# This ensures that the src/ directory is included in your Python module path, allowing correct imports like:
+from src.logger import get_logger
+
+# You can also make sure src/ and src/data_engineering/ contain __init__.py files (even empty) to treat them as Python packages.
+```
 
 ## 📚 References & Inspiration
 Python for Data Analysis – Wes McKinney

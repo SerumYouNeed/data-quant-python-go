@@ -1,0 +1,49 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 📝 Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# 📦 Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# 🪵 Logs
+logs/
+*.log
+
+# 🧪 Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# 🗃️ VSCode / PyCharm / JetBrains
+.vscode/
+.idea/
+
+# 💡 Misc
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# 💾 System files
+Thumbs.db
