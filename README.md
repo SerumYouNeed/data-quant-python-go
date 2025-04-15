@@ -33,23 +33,23 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 
 ## 📁 Folder Structure
 
-data-quant-python-go/
-|
-├──notebooks/
-|   └── numpy_basic.ipynb
-|
-├── logs/
-│   └── pipeline.log               # <- tworzy się automatycznie
-|
-├── src/
-│   ├── __init__.py                # <- pusty, by src był pakietem
-│   ├── logger.py                  # <- pomocniczy logger
-│   └── data_engineering/
-│       ├── __init__.py            # <- pusty
-│       └── example_pipeline.py    # <- demonstracja logowania
-|
-├── README.md                      # <- z instrukcją PYTHONPATH
-├── requirements.txt
+data-quant-python-go/  
+|  
+├──notebooks/  
+|   └── numpy_basic.ipynb  
+|  
+├── logs/  
+│   └── pipeline.log               # <- tworzy się automatycznie  
+|  
+├── src/  
+│   ├── __init__.py                # <- pusty, by src był pakietem  
+│   ├── logger.py                  # <- pomocniczy logger  
+│   └── data_engineering/  
+│       ├── __init__.py            # <- pusty  
+│       └── example_pipeline.py    # <- demonstracja logowania  
+|  
+├── README.md                      # <- z instrukcją PYTHONPATH  
+├── requirements.txt  
 
 
 
@@ -128,11 +128,11 @@ from src.logger import get_logger
 ```
 
 ## 📚 References & Inspiration
-Python for Data Analysis – Wes McKinney
-Python for Finance – Yves Hilpisch
-Go in Action, Mastering Go
-QuantInsti Blog
-Kaggle Learn
+Python for Data Analysis – Wes McKinney  
+Python for Finance – Yves Hilpisch  
+Go in Action, Mastering Go  
+QuantInsti Blog  
+Kaggle Learn  
 
 ## 👨‍💻 Author
 This is a work-in-progress educational repo built by a self-taught developer with a passion for data, programming, and financial systems. Every commit is a step toward becoming a professional Quant Developer or Data Engineer.
