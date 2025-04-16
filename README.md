@@ -15,7 +15,7 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 
 ### 📅 Week 1 – Core Foundations: NumPy, pandas, Finance Programming
 - [x] Day 1: NumPy fundamentals (`notebooks/numpy_basics.ipynb`)
-- [ ] Day 2: pandas & time series exploration (`notebooks/pandas_intro.ipynb`)
+- [x] Day 2: pandas & time series exploration (`notebooks/pandas_intro.ipynb`)
 - [ ] Day 3: Portfolio analysis (risk, return, volatility)
 - [ ] Day 4: Intro to SQL & databases
 - [ ] Day 5: Basic ETL using pandas + SQL
@@ -35,7 +35,7 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 
 data-quant-python-go/  
 |  
-├──notebooks/                      # 📓 Jupyter Notebooks – concepts & exercises    
+├── notebooks/                      # 📓 Jupyter Notebooks – concepts & exercises    
 |   └── numpy_basic.ipynb  
 |  
 ├── logs/  

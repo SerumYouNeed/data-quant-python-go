@@ -1,0 +1,4 @@
+transaction_id,customer,revenue,date
+1001,Alice,950,2025-04-10
+1002,Bob,1200,2025-04-11
+1003,Charlie,450,2025-04-11
