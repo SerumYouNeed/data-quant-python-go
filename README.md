@@ -33,36 +33,36 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 
 ## 📁 Folder Structure
 
-data-quant-python-go/  
+data-quant-python-go/    
+│    
+├── notebooks/                    # 📓 Jupyter Notebooks – concepts & exercises      
+│    └── numpy_basic.ipynb    
 │  
-├── notebooks/                     # 📓 Jupyter Notebooks – concepts & exercises    
-│   └── numpy_basic.ipynb  
+├── logs/    
+│    └── pipeline.log    
 │  
-├── logs/  
-│   └── pipeline.log  
-│  
-├── projects/                      # 🚧 Larger mini-projects & experiments      
+├── projects/                     # 🚧 Larger mini-projects & experiments        
 │  
 ├── src/  
-│   ├── __init__.py             
-│   ├── logger.py                
-│   └── data_engineering/  
-│       ├── __init__.py 
-│       ├── simple_etl_pipeline.py     
-│       └── example_pipeline.py    
-│  
-├── resources/                     # 🗂️ Datasets, CSV files, charts    
-│   ├── input  
-│   │    └── sales.csv  
-│   └── output  
-│        └── low_revenue.csv  
-│  
-├── tests/  
-│   ├── __init__.py    
-│   └── test_simple_etl.py  
-│  
-├── README.md                   
-└── requirements.txt               # 📦 Dependencies    
+│    ├── __init__.py               
+│    ├── logger.py                  
+│    └── data_engineering/    
+│         ├── __init__.py   
+│         ├── simple_etl_pipeline.py       
+│         └── example_pipeline.py      
+│    
+├── resources/                    # 🗂️ Datasets, CSV files, charts      
+│    ├── input    
+│    │    └── sales.csv    
+│    └── output      
+│         └── low_revenue.csv    
+│    
+├── tests/    
+│    ├── __init__.py      
+│    └── test_simple_etl.py    
+│    
+├── README.md                     
+└── requirements.txt              # 📦 Dependencies      
 
 ---
 
