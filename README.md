@@ -33,37 +33,7 @@ This repo documents my journey towards becoming a **Quant Developer** or **Data 
 
 ## 📁 Folder Structure
 
-data-quant-python-go/    
-│    
-├── notebooks/                    # 📓 Jupyter Notebooks – concepts & exercises      
-│    └── numpy_basic.ipynb    
-│  
-├── logs/    
-│    └── pipeline.log    
-│  
-├── projects/                     # 🚧 Larger mini-projects & experiments        
-│  
-├── src/  
-│    ├── __init__.py               
-│    ├── logger.py                  
-│    └── data_engineering/    
-│         ├── __init__.py   
-│         ├── simple_etl_pipeline.py       
-│         └── example_pipeline.py      
-│    
-├── resources/                    # 🗂️ Datasets, CSV files, charts      
-│    ├── input    
-│    │    └── sales.csv    
-│    └── output      
-│         └── low_revenue.csv    
-│    
-├── tests/    
-│    ├── __init__.py      
-│    └── test_simple_etl.py    
-│    
-├── README.md                     
-└── requirements.txt              # 📦 Dependencies      
-
+<pre> ```text data-quant-python-go/ ├── notebooks/ # Jupyter notebooks for exploration and prototyping ├── resources/ # Input and output data files │ ├── input/ │ │ └── sales.csv # Example input data │ └── output/ │ └── low_revenue.csv # Output from ETL pipeline ├── src/ # Main source code │ ├── data_engineering/ │ │ └── simple_etl_pipeline.py │ └── logs/ │ └── logger.py # Custom logging configuration ├── tests/ # Unit tests using pytest │ └── test_etl_pipeline.py ├── requirements.txt # Python dependencies └── README.md # Project documentation ``` </pre>
 ---
 
 ## 🔧 Instalations
