@@ -2,12 +2,11 @@
 
 A personal learning repository combining concepts and hands-on projects in:
 
-- 🧠 Quantitative Development
 - ⚙️ Data Engineering
 - 🐍 Python, Go, and SQL stack
 - 💹 Financial programming and data analysis
 
-This repo documents my journey towards becoming a **Quant Developer** or **Data Engineer** with a strong foundation in algorithms, data pipelines, and financial systems.
+This repo documents my journey towards becoming a **Data Engineer** or **Backend developer**.
 
 ---
 
@@ -145,4 +144,4 @@ QuantInsti Blog
 Kaggle Learn  
 
 ## 👨‍💻 Author
-This is a work-in-progress educational repo built by a self-taught developer with a passion for data, programming, and financial systems. Every commit is a step toward becoming a professional Quant Developer or Data Engineer.
+This is a work-in-progress educational repo built by a self-taught developer with a passion for data and programming. Every commit is a step toward becoming a professional Backend / Software Developer or Data Engineer.
