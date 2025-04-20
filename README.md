@@ -4,7 +4,6 @@ A personal learning repository combining concepts and hands-on projects in:
 
 - ⚙️ Data Engineering
 - 🐍 Python, Go, and SQL stack
-- 💹 Financial programming and data analysis
 
 This repo documents my journey towards becoming a **Data Engineer** or **Backend developer**.
 
