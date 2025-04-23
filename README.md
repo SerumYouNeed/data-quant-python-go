@@ -3,9 +3,9 @@
 A personal learning repository combining concepts and hands-on projects in:
 
 - ⚙️ Data Engineering
-- 🐍 Python, Go, and SQL stack
+- 🐍 Python, and SQL
 
-This repo documents my journey towards becoming a **Data Engineer** or **Backend developer**.
+This repo documents my journey towards becoming a **Data Engineer**.
 
 ---
 
@@ -20,12 +20,11 @@ This repo documents my journey towards becoming a **Data Engineer** or **Backend
 - [ ] Days 6–7: Weekly project – mini backtester or data dashboard
 
 ### 🔁 Upcoming Topics
-- Python for Finance, statsmodels, backtesting
+- Python for statsmodels and backtesting
 - Intermediate SQL + Airflow pipelines
 - PySpark & Kafka streaming
-- Go: concurrency, performance, system design
 - Data APIs + dashboards in React
-- Monitoring, testing, cloud (AWS/GCP)
+- Monitoring, testing, cloud (AWS)
 
 ---
 
