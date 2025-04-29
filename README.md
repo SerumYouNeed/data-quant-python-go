@@ -11,19 +11,17 @@ This repo documents my journey towards becoming a **Data Engineer**.
 
 ## 🗺️ Learning Roadmap
 
-### 📅 Week 1 – Core Foundations: NumPy, pandas, Finance Programming
-- [x] Day 1: NumPy fundamentals (`notebooks/numpy_basics.ipynb`)
-- [x] Day 2: pandas & time series exploration (`notebooks/pandas_intro.ipynb`)
-- [ ] Day 3: Portfolio analysis (risk, return, volatility)
-- [ ] Day 4: Intro to SQL & databases
-- [ ] Day 5: Basic ETL using pandas + SQL
-- [ ] Days 6–7: Weekly project – mini backtester or data dashboard
+### 📅 Stage 1 – Core Foundations: NumPy, SQL, ETL/ELT
+- [x] NumPy fundamentals (`notebooks/numpy_basics.ipynb`)
+- [x] pandas fundamentals (`notebooks/pandas_basic.ipynb`)
+- [ ] Intro to SQL & databases
+- [ ] Basic ETL using pandas + SQL
+- [ ] Mini project – mini backtester or data dashboard
 
 ### 🔁 Upcoming Topics
 - Python for statsmodels and backtesting
 - Intermediate SQL + Airflow pipelines
 - PySpark & Kafka streaming
-- Data APIs + dashboards in React
 - Monitoring, testing, cloud (AWS)
 
 ---
@@ -33,7 +31,8 @@ This repo documents my journey towards becoming a **Data Engineer**.
 data-quant-python-go/    
 │    
 ├── notebooks/                    # 📓 Jupyter Notebooks – concepts & exercises      
-│    └── numpy_basic.ipynb    
+│    ├── numpy_basic.ipynb    
+│    └── pandas_basic.ipynb
 │  
 ├── logs/    
 │    └── pipeline.log    
@@ -135,10 +134,8 @@ pytest tests/
 ```
 
 ## 📚 References & Inspiration
-Python for Data Analysis – Wes McKinney  
-Python for Finance – Yves Hilpisch  
-Go in Action, Mastering Go  
-QuantInsti Blog  
+Python for Data Analysis – Wes McKinney    
+Python for Finance – Yves Hilpisch    
 Kaggle Learn  
 
 ## 👨‍💻 Author
