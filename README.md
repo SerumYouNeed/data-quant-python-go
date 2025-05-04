@@ -139,4 +139,4 @@ Python for Finance – Yves Hilpisch
 Kaggle Learn  
 
 ## 👨‍💻 Author
-This is a work-in-progress educational repo built by a self-taught developer with a passion for data and programming. Every commit is a step toward becoming a professional Backend / Software Developer or Data Engineer.
+This is a work-in-progress educational repo built by a self-taught developer with a passion for data and programming. Every commit is a step toward becoming a professional Data Engineer.
