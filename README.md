@@ -15,7 +15,7 @@ This repo documents my journey towards becoming a **Data Engineer**.
 - [x] NumPy fundamentals (`notebooks/numpy_basics.ipynb`)
 - [x] pandas fundamentals (`notebooks/pandas_basic.ipynb`)
 - [ ] Intro to SQL & databases
-- [ ] Basic ETL using pandas + SQL
+- [x] Basic ETL using pandas + SQL
 - [ ] Mini project – mini backtester or data dashboard
 
 ### 🔁 Upcoming Topics
